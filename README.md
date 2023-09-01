@@ -1,6 +1,6 @@
 # flutter-web-dockerfile
 
-Este archivo debe ser agregar al proyecto actual de Flutter y ejecutar los comando para crear la imagen de Docker necesaria, para usar con Docker Compose o de forma individual.
+Este archivo debe ser agregar al proyecto actual de Flutter y ejecutar los comando para crear la imagen de Docker necesaria, para usar con Docker Compose o de forma individual. Configuración relacionada con https://github.com/danielnaranjo/go-postgres-docker
 
 ### Crear imagen
 ```
